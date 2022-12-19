@@ -18,4 +18,4 @@ const chooseColour = (e) => {
 
 document.getElementById('submit-btn').addEventListener('click', chooseColour)
 const colours = document.getElementById('colours')
-let colourInput 
+let colourInput = ''
