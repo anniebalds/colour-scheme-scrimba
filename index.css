@@ -71,6 +71,11 @@ select:hover, button:hover, input:hover {
     color: rgb(83, 121, 125)
 }
 
+#mode-pick:hover {
+    transform: scale(110%);
+    text-shadow: 0px 0px 40px #a7bdc5;
+    transition: all 0.3s ease-in-out
+}
 
 #submit-btn:hover {
     transform: scale(110%);
