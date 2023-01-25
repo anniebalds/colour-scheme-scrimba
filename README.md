@@ -1,6 +1,6 @@
 # Colour Scheme Generator
 #### https://incredible-cranachan-050e48.netlify.app/
-##### The Color API - https://www.thecolorapi.com/
+##### The Color API - https://www.thecolorapi.com/ & testing basic CSS transition/animation
 
 Create a colour scheme based on two choices, colour and mode
 
