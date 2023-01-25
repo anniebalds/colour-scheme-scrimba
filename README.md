@@ -1,9 +1,6 @@
 # Colour Scheme Generator
-## The Color API - https://www.thecolorapi.com/
+#### https://incredible-cranachan-050e48.netlify.app/
+##### The Color API - https://www.thecolorapi.com/
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
+Create a colour scheme based on two choices, colour and mode
+🌈
